@@ -1,0 +1,12 @@
+VAR
+	DurationGreenBlinking : USINT;
+	DurationGreen : USINT;
+	DurationYellow : USINT;
+	DurationRed : USINT;
+	LightYellow : BOOL;
+	LightRed : BOOL;
+	LightGreen : BOOL;
+	CyclesCount : USINT;
+	TraceMessages : ARRAY[0..200] OF STRING[80];
+	CountDown : USINT;
+END_VAR
