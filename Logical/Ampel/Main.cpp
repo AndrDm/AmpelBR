@@ -31,6 +31,8 @@ void _INIT ProgramInit(void)
 	LightRed = false;
 	LightYellow = false;
 	LightGreen = false;
+	CountDownRedON = false;
+	CountDownGreenON = false;
 }
 
 
@@ -38,6 +40,8 @@ void _CYCLIC ProgramCyclic(void)
 {
 	// Insert code here 
 	machine.update();
+	LightRedOFF = !LightRed; LightYellowOFF = !LightYellow; LightGreenOFF = !LightGreen;
+	CountDownRedON = LightRed;
 	CyclesCount++;
 	TraceMessage("---cycle---");
 }

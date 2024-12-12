@@ -115,6 +115,7 @@ struct YellowUpwards
 		TraceMessage("Yellow ^");
 		LightGreen = false;
 		LightYellow = true;
+		CountDownGreenON = false;
 		control.context().countYellow = 0;
 	}
 
@@ -132,6 +133,7 @@ struct GreenBlinking
 {
 	void enter(Control& control) {
 		TraceMessage("Green Blinking");
+		CountDownGreenON = true;
 		control.context().countGreenBlinking = 0;
 	}
 
@@ -156,6 +158,7 @@ struct Green
 		LightRed = false;
 		LightYellow = false;
 		LightGreen = true;
+		CountDownGreenON = true;
 		CountDown = DurationGreen + DurationGreenBlinking + 4;
 	}
 

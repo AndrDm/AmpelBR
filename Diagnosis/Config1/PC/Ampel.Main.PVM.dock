@@ -2,27 +2,27 @@ WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Ampel
 Position X=0 Y=0 Width=0 Height=0 TabWidth Name=146 Type=0 Scope=0 Force=0 Index=205 ASCIIString=0
                                     name                                     type force                                                            value level type len format place expand specs
                            TraceMessages                       STRING[80][0..200]    0 "                                                               *"    0    9   81    0    1    1         
-                        TraceMessages[0]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[1]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[2]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[3]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[4]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[5]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[6]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[7]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[8]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                        TraceMessages[9]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[10]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[11]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[12]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[13]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[14]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[15]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[16]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[17]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[18]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[19]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
-                       TraceMessages[20]                               STRING[80]    0 "                                                              ''"    1    9   81    1    1    0         
+                        TraceMessages[0]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[1]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[2]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[3]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[4]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[5]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[6]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[7]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[8]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                        TraceMessages[9]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[10]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[11]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[12]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[13]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[14]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[15]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[16]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[17]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[18]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[19]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                       TraceMessages[20]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
                        TraceMessages[21]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
                        TraceMessages[22]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
                        TraceMessages[23]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
@@ -171,35 +171,35 @@ Position X=0 Y=0 Width=0 Height=0 TabWidth Name=146 Type=0 Scope=0 Force=0 Index
                       TraceMessages[166]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
                       TraceMessages[167]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
                       TraceMessages[168]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[169]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[170]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[171]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[172]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[173]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[174]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[175]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[176]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[177]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[178]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[179]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
-                      TraceMessages[180]                               STRING[80]    0 "                                                               *"    1    9   81    1    1    0         
+                      TraceMessages[169]                               STRING[80]    0 "                                                      'Yellow v'"    1    9   81    1    1    0         
+                      TraceMessages[170]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[171]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[172]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[173]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[174]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[175]                               STRING[80]    0 "                                                         'Green'"    1    9   81    1    1    0         
+                      TraceMessages[176]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[177]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[178]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[179]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[180]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[181]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[182]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[183]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[183]                               STRING[80]    0 "                                                'Green Blinking'"    1    9   81    1    1    0         
                       TraceMessages[184]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[185]                               STRING[80]    0 "                                                           'Red'"    1    9   81    1    1    0         
+                      TraceMessages[185]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[186]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[187]                               STRING[80]    0 "                                                           'Off'"    1    9   81    1    1    0         
+                      TraceMessages[187]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[188]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[189]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[189]                               STRING[80]    0 "                                                      'Yellow ^'"    1    9   81    1    1    0         
                       TraceMessages[190]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[191]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[192]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[193]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[194]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[195]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[195]                               STRING[80]    0 "                                                           'Red'"    1    9   81    1    1    0         
                       TraceMessages[196]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
-                      TraceMessages[197]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
+                      TraceMessages[197]                               STRING[80]    0 "                                                           'Off'"    1    9   81    1    1    0         
                       TraceMessages[198]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[199]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         
                       TraceMessages[200]                               STRING[80]    0 "                                                   '---cycle---'"    1    9   81    1    1    0         

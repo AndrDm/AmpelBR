@@ -13,6 +13,11 @@
       <Variable Name="LightGreen" />
       <Variable Name="LightRed" />
       <Variable Name="LightYellow" />
+      <Variable Name="LightGreenOFF" />
+      <Variable Name="LightRedOFF" />
+      <Variable Name="LightYellowOFF" />
+      <Variable Name="CountDownGreenON" />
+      <Variable Name="CountDownRedON" />
     </Task>
   </Module>
 </OpcUaSource>
