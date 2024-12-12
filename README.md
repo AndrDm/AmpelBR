@@ -377,4 +377,8 @@ This is how it works:
 
 ![](assets/tl1.gif)
 
+Update 12-Dec-2024 — simple mappView Visualization added:
+
+![](assets/ampel2.gif)
+
 Happy coding!
